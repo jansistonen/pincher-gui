@@ -4,8 +4,7 @@ A beginner-friendly graphical teach pendant for the **Interbotix PincherX 100**,
 
 The goal of this project is simple: **make the PincherX 100 immediately approachable for students and first-time robotics users without requiring them to start by writing ROS 2 or Python code.**
 
-> **Screenshot placeholder – Main GUI**  
-> Add a screenshot of the full Teach Pendant interface here.
+![](https://github.com/jansistonen/pincher-gui/blob/main/pincherV4_1.gif)
 
 ---
 
