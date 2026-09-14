@@ -98,8 +98,7 @@ The displayed values are read from the actual ROS 2 joint state feedback.
 
 This makes the interface useful not only for operating the robot, but also for learning how a multi-joint manipulator behaves.
 
-> **Screenshot placeholder – Joint control**  
-> Add a screenshot showing the joint sliders, actual angles and jog controls.
+![](https://github.com/jansistonen/pincher-gui/blob/main/Screenshot%202026-09-14%20at%2015.03.19.png)
 
 For example, a student can move only the shoulder joint and immediately observe how changing one joint affects the position and orientation of the end effector.
 
