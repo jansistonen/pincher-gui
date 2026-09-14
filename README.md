@@ -134,8 +134,7 @@ Each pose contains the joint positions and can also include parameters such as:
 
 The order of the poses can be changed before running the program.
 
-> **Screenshot placeholder – Program / saved poses**  
-> Add a screenshot showing several stored poses in the program table.
+
 
 ---
 
@@ -167,8 +166,7 @@ The interface also shows the current execution phase, for example:
 
 This makes program execution easier to follow and provides behavior similar to the visual program-step indication found in industrial robot interfaces.
 
-> **Screenshot placeholder – Program running**  
-> Add a screenshot where the currently executing row is highlighted.
+
 
 ---
 
@@ -187,7 +185,7 @@ Gripper actions can also be included in stored program poses.
 
 This allows simple pick-and-place programs to be created without writing code.
 
-> **Screenshot placeholder – Gripper controls**
+
 
 Future versions can also use the Interbotix linear-position mode to command a specific finger opening instead of only OPEN/CLOSE commands.
 
@@ -228,8 +226,7 @@ Required joint angles
 
 Because the PincherX 100 is a **4-DOF robot**, its Cartesian motion is more constrained than that of a typical 6-axis industrial manipulator. This also makes it useful educationally: the limitations of inverse kinematics and robot degrees of freedom become visible in practice.
 
-> **Screenshot placeholder – Cartesian control**  
-> Add a screenshot showing Actual X/Y/Z, Cartesian Target and Cartesian jog buttons.
+
 
 ---
 
